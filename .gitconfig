@@ -1,0 +1,10 @@
+[user]
+	name = miyao
+	email = miyao.programmer@gmail.com
+[core]
+	editor = vim
+	autocrlf = input
+[help]
+	autocorrect = 1
+[color]
+	ui = true
